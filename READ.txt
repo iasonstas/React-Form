@@ -1,0 +1,3 @@
+npx i create-react-app
+npm i material-ui
+npm start
